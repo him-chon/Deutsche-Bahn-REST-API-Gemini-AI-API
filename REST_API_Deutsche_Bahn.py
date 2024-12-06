@@ -1,5 +1,7 @@
 
 """
+Getting Started
+
 1. This program requires the following packages to be installed.
 
    pip install python-dotenv==1.0.1
@@ -19,7 +21,7 @@
 
    https://ai.google.dev/tutorials/python_quickstart
 
-6. Add the following line to your `.env` file, replacing `your-api-key` with
+4. Add the following line to your `.env` file, replacing `your-api-key` with
    the API key you generated, and save the file:
 
    GOOGLE_API_KEY=your-api-key
